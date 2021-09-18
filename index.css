@@ -1,9 +1,9 @@
 @font-face {
-    src: url("/materials/SF-Regular.ttf");
+    src: url("https://iamquietw.github.io/VezdekodVMA1/materials/SF-Regular.ttf");
     font-family: "SF Regular";
 }
 @font-face {
-    src: url("/materials/SF-Semibold.ttf");
+    src: url("https://iamquietw.github.io/VezdekodVMA1/materials/SF-Semibold.ttf");
     font-family: "SF Semibold";
 }
 body {
